@@ -1,0 +1,86 @@
+﻿14:41:11 BattlEye server updated to version: 207
+14:41:11 BattlEye Server: Initialized (v1.207)
+14:41:11 Stworzono tożsamość hosta.
+14:41:12 Game Port: 2302, Steam Query Port: 2303
+14:43:25 Proboszcz używa zmodyfikowanego pliku data
+14:43:25 BattlEye Server: Player #0 Proboszcz (83.7.226.134:5061) connected
+14:43:25 Łączenie gracza Proboszcz.
+14:43:25 Misja DayZ Epoch Chernarus wczytana z katalogu.
+14:43:27 BattlEye Server: Player #0 Proboszcz - GUID: a862d767dd2600dc255ac8ecf8cf7dcf (unverified)
+14:43:27 BattlEye Server: Player #0 Proboszcz - Legacy GUID: 9d3752505c65550471aeb7cc4e0900a9
+14:43:27 Gracz Proboszcz połączony (id=76561198290427581).
+14:43:27 BattlEye Server: Verified GUID (a862d767dd2600dc255ac8ecf8cf7dcf) of player #0 Proboszcz
+14:43:27 Gracz Proboszcz rozłączony.
+14:43:27 BattlEye Server: Player #0 Proboszcz disconnected
+14:43:27 “Wszyscy użytkownicy rozłączeni. Oczekiwanie na użytkowników”.
+14:43:52 Proboszcz używa zmodyfikowanego pliku data
+14:43:52 BattlEye Server: Player #0 Proboszcz (83.7.226.134:5061) connected
+14:43:52 Łączenie gracza Proboszcz.
+14:43:52 Misja DayZ Epoch Chernarus wczytana z katalogu.
+14:43:53 BattlEye Server: Player #0 Proboszcz - GUID: a862d767dd2600dc255ac8ecf8cf7dcf (unverified)
+14:43:54 Gracz Proboszcz połączony (id=76561198290427581).
+14:43:54 BattlEye Server: Verified GUID (a862d767dd2600dc255ac8ecf8cf7dcf) of player #0 Proboszcz
+14:43:54 Gracz Proboszcz rozłączony.
+14:43:54 BattlEye Server: Player #0 Proboszcz disconnected
+14:43:54 “Wszyscy użytkownicy rozłączeni. Oczekiwanie na użytkowników”.
+14:46:16 BattlEye Server: Initialized (v1.207)
+14:46:16 Stworzono tożsamość hosta.
+14:46:16 Game Port: 2302, Steam Query Port: 2303
+14:48:15 Proboszcz używa zmodyfikowanego pliku data
+14:48:15 BattlEye Server: Player #0 Proboszcz (83.7.226.134:5061) connected
+14:48:15 Łączenie gracza Proboszcz.
+14:48:15 Misja DayZ Epoch Chernarus wczytana z katalogu.
+14:48:16 BattlEye Server: Player #0 Proboszcz - GUID: a862d767dd2600dc255ac8ecf8cf7dcf (unverified)
+14:48:17 Gracz Proboszcz połączony (id=76561198290427581).
+14:48:17 BattlEye Server: Verified GUID (a862d767dd2600dc255ac8ecf8cf7dcf) of player #0 Proboszcz
+14:48:17 BattlEye Server: Player #0 Proboszcz - Legacy GUID: 9d3752505c65550471aeb7cc4e0900a9
+14:48:22 Role przydzielone.
+14:48:22 Wczytywanie misji ...
+14:48:46 Misja wczytana.
+14:48:50 Gra rozpoczęta.
+14:52:59 Gracz Proboszcz rozłączony.
+14:52:59 BattlEye Server: Player #0 Proboszcz disconnected
+18:23:17 BattlEye Server: Initialized (v1.207)
+18:23:17 Stworzono tożsamość hosta.
+18:23:18 Game Port: 2302, Steam Query Port: 2303
+18:25:51 BattlEye Server: Player #0 Proboszcz (83.7.226.134:5061) connected
+18:25:51 Łączenie gracza Proboszcz.
+18:25:52 Misja DayZ Epoch Chernarus wczytana z katalogu.
+18:25:53 BattlEye Server: Player #0 Proboszcz - GUID: a862d767dd2600dc255ac8ecf8cf7dcf (unverified)
+18:25:53 Gracz Proboszcz połączony (id=76561198290427581).
+18:25:53 BattlEye Server: Verified GUID (a862d767dd2600dc255ac8ecf8cf7dcf) of player #0 Proboszcz
+18:25:55 BattlEye Server: Player #0 Proboszcz - Legacy GUID: 9d3752505c65550471aeb7cc4e0900a9
+18:26:00 Role przydzielone.
+18:26:00 Wczytywanie misji ...
+18:26:20 Misja wczytana.
+18:26:31 Gra rozpoczęta.
+18:33:16 Gracz Proboszcz rozłączony.
+18:33:16 BattlEye Server: Player #0 Proboszcz disconnected
+ 7:40:30 BattlEye Server: Initialized (v1.207)
+ 7:40:30 Stworzono tożsamość hosta.
+ 7:40:32 Game Port: 2302, Steam Query Port: 2303
+ 7:45:28 BattlEye Server: Player #0 Proboszcz (83.30.109.97:5061) connected
+ 7:45:28 Łączenie gracza Proboszcz.
+ 7:45:28 Misja DayZ Overpoch Chernarus wczytana z zasobów.
+ 7:45:29 BattlEye Server: Player #0 Proboszcz - GUID: a862d767dd2600dc255ac8ecf8cf7dcf (unverified)
+ 7:45:30 Gracz Proboszcz połączony (id=76561198290427581).
+ 7:45:30 BattlEye Server: Verified GUID (a862d767dd2600dc255ac8ecf8cf7dcf) of player #0 Proboszcz
+ 7:45:30 BattlEye Server: Player #0 Proboszcz - Legacy GUID: 9d3752505c65550471aeb7cc4e0900a9
+ 7:45:33 Role przydzielone.
+ 7:45:33 Wczytywanie misji ...
+ 7:46:00 Misja wczytana.
+ 7:46:03 Gra rozpoczęta.
+ 8:12:20 BattlEye Server: Initialized (v1.207)
+ 8:12:20 Stworzono tożsamość hosta.
+ 8:12:20 Game Port: 2302, Steam Query Port: 2303
+ 8:13:55 BattlEye Server: Player #0 Proboszcz (83.30.109.97:5061) connected
+ 8:13:55 Łączenie gracza Proboszcz.
+ 8:13:55 Misja DayZ Overpoch Chernarus wczytana z zasobów.
+ 8:13:56 BattlEye Server: Player #0 Proboszcz - GUID: a862d767dd2600dc255ac8ecf8cf7dcf (unverified)
+ 8:13:57 Gracz Proboszcz połączony (id=76561198290427581).
+ 8:13:57 BattlEye Server: Verified GUID (a862d767dd2600dc255ac8ecf8cf7dcf) of player #0 Proboszcz
+ 8:13:57 BattlEye Server: Player #0 Proboszcz - Legacy GUID: 9d3752505c65550471aeb7cc4e0900a9
+ 8:14:04 Role przydzielone.
+ 8:14:04 Wczytywanie misji ...
+ 8:14:22 Misja wczytana.
+ 8:14:38 Gra rozpoczęta.
