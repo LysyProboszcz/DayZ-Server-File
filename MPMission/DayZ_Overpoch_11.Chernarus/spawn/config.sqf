@@ -5,7 +5,7 @@
 	https://github.com/ebayShopper/ESSV3/blob/master/DOCUMENTATION.md
 */
 
-class_selection = false; //Enable class selection dialog
+class_selection = true; //Enable class selection dialog
 #define START_ITEMS "HandRoadFlare","ItemBandage",2,"ItemPainkiller","ItemWaterbottle","FoodPistachio"
 class_public = [ // These are visible to anyone on the server
 	[(localize "str_playerstats_bandit")+" Lvl1","Bandit1_DZ","BanditW1_DZ",[START_ITEMS,"17Rnd_9x19_glock17",2],["G17_DZ"],"",[],[],0,-5000,0,""],
